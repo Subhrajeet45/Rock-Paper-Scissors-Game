@@ -49,8 +49,6 @@ Copy code
 
 ## 🖼️ Screenshot
 
-*(Add your game screenshot here if available)*
-
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
