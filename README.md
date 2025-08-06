@@ -30,8 +30,7 @@ Challenge your computer, watch your scores climb, and enjoy slick visuals, anima
 
 ## 🖼️ Demo
 
-![Screenshot of Rock Paper Scissors Game](assets/demo.png)  
-*Replace `demo.png` with your own screenshot for maximum coolness!*
+![Screenshot of Rock Paper Scissors Game](assets/Demo.png)  
 
 ---
 
